@@ -141,79 +141,79 @@
         <path d="m393.2 456 2.22 0.2 2.59 0.12" />
         <path d="m398 456.3-1.42-0.32-0.57-0.13-0.68-0.09-2.1-0.29" />
     </g>
-    <g fill="#1a1a1a" font-family="Arial" font-weight="bold" font-size="24px">
+    <g fill="#1a1a1a" font-family="Arial" font-weight="bold" font-size="24px" text-anchor="middle">
         <g transform="translate(427.1 352.0)">
             <switch>
-                <text systemLanguage="zh" text-anchor="middle">金象城区</text>
-                <text systemLanguage="my" text-anchor="middle" font-size="0.5em">
+                <text systemLanguage="zh">金象城区</text>
+                <text systemLanguage="my" font-size="0.5em">
                     <tspan x="0" dy="-0.6em">ကျင့်ရှမ်းချိန်</tspan>
                     <tspan x="0" dy="1.2em">ရပ်ကွက်</tspan>
                 </text>
-                <text text-anchor="middle" font-size="0.5em">
+                <text font-size="0.5em">
                     <tspan x="0" dy="-0.6em">Jinxiangcheng</tspan>
                     <tspan x="0" dy="1.2em">Ward</tspan>
                 </text>
             </switch>
         </g>
-        <g transform="translate(286.9 482.6)">
+        <g transform="translate(266.9 472.6)">
             <switch>
-                <text systemLanguage="zh" text-anchor="middle">老街区</text>
-                <text systemLanguage="my" text-anchor="middle" font-size="0.5em">
+                <text systemLanguage="zh">老街区</text>
+                <text systemLanguage="my" font-size="0.5em">
                     <tspan x="0" dy="-0.6em">လောက်ကိုင်</tspan>
                     <tspan x="0" dy="1.2em">ရပ်ကွက်</tspan>
                 </text>
-                <text text-anchor="middle" font-size="0.5em">
+                <text font-size="0.5em">
                     <tspan x="0" dy="-0.6em">Laukkaing</tspan>
                     <tspan x="0" dy="1.2em">Ward</tspan>
                 </text>
             </switch>
         </g>
-        <g transform="translate(460.1 536.1)">
+        <g transform="translate(480.1 536.1)">
             <switch>
-                <text systemLanguage="zh" text-anchor="middle">东城区</text>
-                <text systemLanguage="my" text-anchor="middle" font-size="0.5em">
+                <text systemLanguage="zh">东城区</text>
+                <text systemLanguage="my" font-size="0.5em">
                     <tspan x="0" dy="-0.6em">ဒွန်ချင်း</tspan>
                     <tspan x="0" dy="1.2em">ရပ်ကွက်</tspan>
                 </text>
-                <text text-anchor="middle" font-size="0.5em">
+                <text font-size="0.5em">
                     <tspan x="0" dy="-0.6em">Dongcheng</tspan>
                     <tspan x="0" dy="1.2em">Ward</tspan>
                 </text>
             </switch>
         </g>
     </g>
-    <g fill="#646464" font-family="Arial" font-weight="bold" font-size="18px">
-        <g transform="translate(650 122.5)">
+    <g fill="#646464" font-family="Arial" font-weight="bold" font-size="14px" text-anchor="start">
+        <g transform="translate(635 122.5)">
             <switch>
-                <text systemLanguage="zh" text-anchor="middle">至中国南伞</text>
-                <text systemLanguage="my" text-anchor="middle" font-size="0.5em">
+                <text systemLanguage="zh">至中国南伞</text>
+                <text systemLanguage="my" font-size="0.8em">
                     <tspan x="0" dy="-0.6em">တရုတ်နိုင်ငံ၊</tspan>
                     <tspan x="0" dy="1.2em">နန်ဆန်သို့</tspan>
                 </text>
-                <text text-anchor="middle" font-size="0.5em">
+                <text systemLanguage="en" font-size="0.8em">
+                    <tspan x="0" dy="-0.6em">To Nansan,</tspan>
+                    <tspan x="0" dy="1.2em">China</tspan>
+                </text>
+                <text font-size="0.8em">
                     <tspan x="0" dy="-0.6em">To Nansan,</tspan>
                     <tspan x="0" dy="1.2em">China</tspan>
                 </text>
             </switch>
         </g>
-        <g transform="translate(492.3 770.2)">
+        <g transform="translate(498.5 753.5)">
             <switch>
-                <text systemLanguage="zh" text-anchor="middle">至清水河</text>
-                <text systemLanguage="my" text-anchor="middle" font-size="0.5em">ချင်းရွှေဟော်သို့</text>
-                <text text-anchor="middle" font-size="0.5em">
-                    <tspan x="0" dy="-0.6em">To</tspan>
-                    <tspan x="0" dy="1.2em">Chinshwehaw</tspan>
-                </text>
+                <text systemLanguage="zh">至清水河</text>
+                <text systemLanguage="my">ချင်းရွှေဟော်သို့</text>
+                <text systemLanguage="en">To Chinshwehaw</text>
+                <text>To Chinshwehaw</text>
             </switch>
         </g>
-        <g transform="translate(4.1 530.3)">
+        <g transform="translate(4.1 525.3)">
             <switch>
-                <text systemLanguage="zh" text-anchor="start">至大水塘</text>
-                <text systemLanguage="my" text-anchor="middle">တာရွှေထန်သို့</text>
-                <text text-anchor="start" font-size="0.5em">
-                    <tspan x="0" dy="-0.6em">To</tspan>
-                    <tspan x="0" dy="1.2em">Tarshwehtan</tspan>
-                </text>
+                <text systemLanguage="zh">至大水塘</text>
+                <text systemLanguage="my">တာရွှေထန်သို့</text>
+                <text systemLanguage="en">To Tarshwehtan</text>
+                <text >To Tarshwehtan</text>
             </switch>
         </g>
     </g>
